@@ -1,5 +1,5 @@
 # easy-pytorch-CenterNet
-结构比较简洁的CenterNet
+结构比较简洁的CenterNet\n
 object as point那篇
 pytorch新手，注释比较多，新冠期间在家无设备，使用CPU，无多线程
 pytorch版本1.0.0
