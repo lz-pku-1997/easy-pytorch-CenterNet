@@ -19,4 +19,4 @@ python main.py进行训练
 
 训练完成后 python test.py进行测试
 
-更改配置进入opts_and_utils.py
+如需更改配置进入opts_and_utils.py
