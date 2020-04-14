@@ -12,4 +12,5 @@ pycocotools windows按这个链接就好    http://www.mamicode.com/info-detail-
 
 # 使用方法
 python main.py进行训练
+
 训练完成后 python test.py进行测试
