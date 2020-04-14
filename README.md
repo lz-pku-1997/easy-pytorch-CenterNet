@@ -3,7 +3,9 @@
 
 object as point那篇
 
-pytorch新手，注释比较多，新冠期间在家无设备，使用CPU，无多线程
+pytorch新手，注释比较多
+
+新冠期间在家无设备，代码为CPU版，无多线程，不需要build DCNv2，Windows也可以使用
 
 pytorch版本1.0.0
 
