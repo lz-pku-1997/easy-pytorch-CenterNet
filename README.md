@@ -7,7 +7,7 @@ pytorch新手，注释比较多
 
 新冠期间在家无设备，代码为CPU版，无多线程，不需要build DCNv2，Windows也可以使用，特别适合极其低配机器，我家带不起英雄联盟的电脑都能跑
 
-# pytorch版本1.0.0！！！
+# pytorch版本1.0.0
 测了下pytorch1.4好像会报错
 
 backbone只含resnet50~152
